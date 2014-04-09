@@ -1,0 +1,108 @@
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\bin\Debug\App.xbf
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\bin\Debug\MainPage.xbf
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\bin\Debug\Show Timer.exe
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\bin\Debug\Show Timer.pdb
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\bin\Debug\resources.pri
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\bin\Debug\AppxManifest.xml
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\bin\Debug\Show Timer.build.appxrecipe
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\App.g.i.cs
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\App.g.cs
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\MainPage.g.i.cs
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\MainPage.g.cs
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\XamlTypeInfo.g.cs
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\App.xaml
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\MainPage.xaml
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\App.xbf
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\MainPage.xbf
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\XamlSaveStateFile.xml
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\Show Timer.exe
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\Show Timer.pdb
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\priconfig.xml
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\priconfig.xml.intermediate
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\layout.resfiles
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\layout.resfiles.intermediate
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\resources.resfiles
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\resources.resfiles.intermediate
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\pri.resfiles
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\pri.resfiles.intermediate
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\qualifiers.txt
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\qualifiers.txt.intermediate
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+d:\users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\ProjectArchitectures.txt
+D:\Users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\bin\Debug\PhotoPage.xbf
+D:\Users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\PhotoPage.g.i.cs
+D:\Users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\PhotoPage.g.cs
+D:\Users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\PhotoPage.xaml
+D:\Users\algor_local\documents\visual studio 2013\Projects\Show Timer\Show Timer\obj\Debug\PhotoPage.xbf
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\bin\Debug\App.xbf
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\bin\Debug\PhotoPage.xbf
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\bin\Debug\MainPage.xbf
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\bin\Debug\Show Timer.exe
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\bin\Debug\Show Timer.pdb
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\bin\Debug\resources.pri
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\bin\Debug\AppxManifest.xml
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\bin\Debug\Show Timer.build.appxrecipe
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\App.g.i.cs
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\App.g.cs
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\PhotoPage.g.i.cs
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\PhotoPage.g.cs
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\MainPage.g.i.cs
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\MainPage.g.cs
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\XamlTypeInfo.g.cs
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\App.xaml
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\PhotoPage.xaml
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\MainPage.xaml
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\App.xbf
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\PhotoPage.xbf
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\MainPage.xbf
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\XamlSaveStateFile.xml
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\Show Timer.exe
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\Show Timer.pdb
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\priconfig.xml
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\priconfig.xml.intermediate
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\layout.resfiles
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\layout.resfiles.intermediate
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\resources.resfiles
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\resources.resfiles.intermediate
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\pri.resfiles
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\pri.resfiles.intermediate
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\qualifiers.txt
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\qualifiers.txt.intermediate
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer\obj\Debug\ProjectArchitectures.txt
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\bin\Debug\App.xbf
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\bin\Debug\PhotoPage.xbf
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\bin\Debug\MainPage.xbf
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\bin\Debug\Show Timer.exe
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\bin\Debug\Show Timer.pdb
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\bin\Debug\resources.pri
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\bin\Debug\AppxManifest.xml
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\bin\Debug\Show Timer.build.appxrecipe
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\App.g.i.cs
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\App.g.cs
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\PhotoPage.g.i.cs
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\PhotoPage.g.cs
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\MainPage.g.i.cs
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\MainPage.g.cs
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\XamlTypeInfo.g.cs
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\App.xaml
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\PhotoPage.xaml
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\MainPage.xaml
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\App.xbf
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\PhotoPage.xbf
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\MainPage.xbf
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\XamlSaveStateFile.xml
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\Show Timer.exe
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\Show Timer.pdb
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\priconfig.xml
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\priconfig.xml.intermediate
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\layout.resfiles
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\layout.resfiles.intermediate
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\resources.resfiles
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\resources.resfiles.intermediate
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\pri.resfiles
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\pri.resfiles.intermediate
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\qualifiers.txt
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\qualifiers.txt.intermediate
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\ProjectArchitectures.txt
