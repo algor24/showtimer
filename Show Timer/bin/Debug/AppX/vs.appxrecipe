@@ -14,56 +14,56 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="D:\Users\algor_local\Source\Repos\showtimer\Show Timer\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-04-09T14:42:41.969</Modified>
+      <Modified>2014-04-09T21:12:46.078</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\bin\Debug\Show Timer.exe">
+    <AppxPackagedFile Include="D:\Users\algor_local\Source\Repos\showtimer\Show Timer\bin\Debug\Show Timer.exe">
       <PackagePath>Show Timer.exe</PackagePath>
-      <Modified>2014-04-09T14:42:41.448</Modified>
+      <Modified>2014-04-10T09:40:08.429</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Users\algor_local\Source\Repos\showtimer\Show Timer\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-09-24T19:55:36.000</Modified>
+      <Modified>2014-04-09T21:11:57.087</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Users\algor_local\Source\Repos\showtimer\Show Timer\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-09-24T19:55:36.000</Modified>
+      <Modified>2014-04-09T21:11:57.098</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\Users\algor_local\Source\Repos\showtimer\Show Timer\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-09-24T19:55:36.000</Modified>
+      <Modified>2014-04-09T21:11:57.110</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Users\algor_local\Source\Repos\showtimer\Show Timer\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-09-24T19:55:36.000</Modified>
+      <Modified>2014-04-09T21:11:57.120</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\Common\ReadMe.txt">
+    <AppxPackagedFile Include="D:\Users\algor_local\Source\Repos\showtimer\Show Timer\Common\ReadMe.txt">
       <PackagePath>Common\ReadMe.txt</PackagePath>
-      <Modified>2014-04-06T15:45:04.541</Modified>
+      <Modified>2014-04-09T21:11:57.541</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\Users\algor_local\Source\Repos\showtimer\Show Timer\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2014-04-06T17:12:59.116</Modified>
+      <Modified>2014-04-09T21:11:57.656</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\bin\Debug\PhotoPage.xbf">
+    <AppxPackagedFile Include="D:\Users\algor_local\Source\Repos\showtimer\Show Timer\bin\Debug\PhotoPage.xbf">
       <PackagePath>PhotoPage.xbf</PackagePath>
-      <Modified>2014-04-08T20:30:08.072</Modified>
+      <Modified>2014-04-10T09:26:10.281</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="D:\Users\algor_local\Source\Repos\showtimer\Show Timer\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2014-04-07T17:04:23.346</Modified>
+      <Modified>2014-04-09T21:11:57.816</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\Users\algor_local\Source\Repos\showtimer\Show Timer\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-04-09T14:42:41.665</Modified>
+      <Modified>2014-04-09T21:12:45.452</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

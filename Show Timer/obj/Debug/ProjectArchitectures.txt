@@ -1,1 +1,1 @@
-C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\Show Timer.csproj;neutral
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\Show Timer.csproj;neutral

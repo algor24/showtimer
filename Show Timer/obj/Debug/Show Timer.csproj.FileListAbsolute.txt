@@ -106,3 +106,39 @@ C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\qualifier
 C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\qualifiers.txt.intermediate
 C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\users\algor_local\Source\Workspaces\Show Timer\Show Timer\obj\Debug\ProjectArchitectures.txt
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\bin\Debug\App.xbf
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\bin\Debug\PhotoPage.xbf
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\bin\Debug\MainPage.xbf
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\bin\Debug\Show Timer.exe
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\bin\Debug\Show Timer.pdb
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\bin\Debug\resources.pri
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\bin\Debug\AppxManifest.xml
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\bin\Debug\Show Timer.build.appxrecipe
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\App.g.i.cs
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\App.g.cs
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\PhotoPage.g.i.cs
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\PhotoPage.g.cs
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\MainPage.g.i.cs
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\MainPage.g.cs
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\XamlTypeInfo.g.cs
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\App.xaml
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\PhotoPage.xaml
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\MainPage.xaml
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\App.xbf
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\PhotoPage.xbf
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\MainPage.xbf
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\XamlSaveStateFile.xml
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\Show Timer.exe
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\Show Timer.pdb
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\priconfig.xml
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\priconfig.xml.intermediate
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\layout.resfiles
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\layout.resfiles.intermediate
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\resources.resfiles
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\resources.resfiles.intermediate
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\pri.resfiles
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\pri.resfiles.intermediate
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\qualifiers.txt
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\qualifiers.txt.intermediate
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Users\algor_local\Source\Repos\showtimer\Show Timer\obj\Debug\ProjectArchitectures.txt

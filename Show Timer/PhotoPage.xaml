@@ -52,7 +52,7 @@
                 <RowDefinition Height="70"/>
                 <RowDefinition/>
             </Grid.RowDefinitions>
-            <Button Content="Get photo" Margin="79,7,0,5"/>
+            <Button Content="Get photo" Margin="79,7,0,5" Click="GetPhotoButton_Click"/>
             <TextBlock Grid.Row="1" TextWrapping="Wrap" Text="TextBlock" Style="{StaticResource SubheaderTextBlockStyle}"/>
             <StackPanel x:Name="imagePanel" Grid.Row="2" Orientation="Horizontal">
                 <Border BorderBrush="Gray" BorderThickness="1" Background="Gray">
@@ -60,11 +60,11 @@
                 </Border>
                 <StackPanel Margin="20,0,0,0">
                     <TextBlock TextWrapping="Wrap" Text="File name:" Style="{StaticResource CaptionTextBlockStyle}"/>
-                    <TextBlock TextWrapping="Wrap" Text="TextBlock" Style="{StaticResource BodyTextBlockStyle}" Margin="10,0,0,30"/>
+                    <TextBlock TextWrapping="Wrap" Text="{Binding DisplayName}" Style="{StaticResource BodyTextBlockStyle}" Margin="10,0,0,30"/>
                     <TextBlock TextWrapping="Wrap" Text="Path:" Style="{StaticResource CaptionTextBlockStyle}"/>
-                    <TextBlock TextWrapping="Wrap" Text="TextBlock" Style="{StaticResource BodyTextBlockStyle}" Margin="10,0,0,30"/>
+                    <TextBlock TextWrapping="Wrap" Style="{StaticResource BodyTextBlockStyle}" Margin="10,0,0,30" Text="{Binding path}"/>
                     <TextBlock TextWrapping="Wrap" Text="Date created:" Style="{StaticResource CaptionTextBlockStyle}"/>
-                    <TextBlock TextWrapping="Wrap" Text="TextBlock" Style="{StaticResource BodyTextBlockStyle}" Margin="10,0,0,30"/>
+                    <TextBlock TextWrapping="Wrap" Text="{Binding DateCreated.Date}" Style="{StaticResource BodyTextBlockStyle}" Margin="10,0,0,30"/>
                 </StackPanel>
             </StackPanel>
         </Grid>
